@@ -1,0 +1,11 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.Practica3Nativas" parent="Theme.Material3.DayNight.NoActionBar">
+        <!-- Tema Guinda por defecto -->
+        <item name="colorPrimary">#A21F5C</item>
+        <item name="colorPrimaryVariant">#72003F</item>
+        <item name="colorOnPrimary">@android:color/white</item>
+    </style>
+
+    <style name="Theme.Practica3Nativas" parent="Base.Theme.Practica3Nativas" />
+</resources>

@@ -1,0 +1,18 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/action_camera"
+        android:title="Cámara"
+        android:icon="@drawable/ic_camera"
+        app:showAsAction="always" />
+    <item
+        android:id="@+id/action_audio"
+        android:title="Audio"
+        android:icon="@drawable/ic_mic"
+        app:showAsAction="always" />
+    <item
+        android:id="@+id/action_gallery"
+        android:title="Galería"
+        android:icon="@drawable/ic_gallery"
+        app:showAsAction="always" />
+</menu>
